@@ -1,5 +1,5 @@
 **SmartKey Studio: Piano Learning Ecosystem
-**Combine hardware, AI, and cloud tech to master piano faster
+Combine hardware, AI, and cloud tech to master piano faster**
 
 🚀 Core Features  
 - Guitar Hero-style LED guidance system  
