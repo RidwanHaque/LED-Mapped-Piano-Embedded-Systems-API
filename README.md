@@ -59,7 +59,6 @@ Expert challenges:
 - Enhance TensorFlow model  
 - Develop AR visualization  
 
-🌟 Why FAANG Recruiters Love This Project  
 - Shows full-stack capabilities (hardware to cloud)  
 - Proves cost optimization skills  
 - Demonstrates open-source community impact  
