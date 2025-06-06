@@ -159,7 +159,6 @@ Yes, with your MIDI keyboard and a cloud-based or local application, you can abs
 
 ---
 
-This approach will give you a project that is visually impressive, interactive, and demonstrates both hardware and software skills—perfect for a standout resume project[1].
 
 Citations:
 [1] https://www.youtube.com/watch?v=Rro5a_ohIT4
