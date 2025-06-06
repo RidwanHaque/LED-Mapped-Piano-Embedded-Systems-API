@@ -158,11 +158,3 @@ Yes, with your MIDI keyboard and a cloud-based or local application, you can abs
 4. **Test and iterate**: Start with basic note detection and LED response, then add AI feedback and more advanced features as you gain confidence.
 
 ---
-
-
-Citations:
-[1] https://www.youtube.com/watch?v=Rro5a_ohIT4
-
----
-Answer from Perplexity: pplx.ai/share
-
