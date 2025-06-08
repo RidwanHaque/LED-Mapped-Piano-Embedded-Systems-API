@@ -64,31 +64,9 @@ Expert challenges:
 - Demonstrates open-source community impact  
 - Uses production-grade tech stack  
 
-📬 Contact  
-Found a bug? Want to collaborate?  
-Open an issue or email [your-email@domain.com]  
-
-Check out our detailed build guide: [link-to-wiki]  
-Join 500+ developers in our Discord: [invite-link]  
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 **
 UPDATED VERSION: **
-
-Yes, with your MIDI keyboard and a cloud-based or local application, you can absolutely play keys and have the system detect them. To incorporate the LED visualization elements from the video you shared, here’s how you can structure your project:
-
 ---
 
 ## **How Your System Will Work**
@@ -150,11 +128,6 @@ Yes, with your MIDI keyboard and a cloud-based or local application, you can abs
 
 ---
 
-## **Next Steps**
 
-1. **Order the LED strip and Arduino board** (Leonardo recommended for beginner-friendly setup).
-2. **Follow the video’s wiring and setup instructions** for connecting the LEDs and Arduino[1].
-3. **Integrate MIDI detection in your React app** and set up communication with both your AI backend and the Arduino.
-4. **Test and iterate**: Start with basic note detection and LED response, then add AI feedback and more advanced features as you gain confidence.
 
 ---
