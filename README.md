@@ -8,7 +8,7 @@
 - Custom lighting modes via React Native app  
 - 3D-printable design fits any MIDI keyboard  
 
-🔧 Tech Stack (FAANG-Aligned)  
+🔧 Tech Stack
 | Component       | Technology          | Used By          |  
 |-----------------|---------------------|------------------|  
 | Embedded System | ESP32-S3 (Rust)     | Apple Core MIDI  |  
@@ -37,7 +37,7 @@
 - Practice analytics stored in AWS (view weak spots)  
 - Privacy-first design: No personal data collection  
 
-🚨 FAANG-Ready Skills Demonstrated  
+🚨 Skills Demonstrated  
 - Apple: Precise hardware timing for musical accuracy  
 - Google: Machine learning on low-power devices  
 - Amazon: Scalable cloud infrastructure design  
