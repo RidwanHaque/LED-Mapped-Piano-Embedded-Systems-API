@@ -1,4 +1,5 @@
-# SmartKey Studio: Piano Learning Ecosystem
+# Piano LED Visualizer Arduino Uno
+## SmartKey Studio: Piano Learning Ecosystem
 **Combine hardware, AI, and cloud tech to master piano faster**
 
 🚀 Core Features  
