@@ -21,3 +21,6 @@ The core of the project is a modular Arduino script (C++) that functions as a cu
 ## Software-Hardware Interfacing
 
 To bridge the software and hardware components, the system utilizes the **Hairless MIDI Serial Bridge**. This tool converts MIDI signals from the piano into serial data that the Arduino Uno can read and process, enabling seamless, real-time communication between the musical input and the visual LED output.
+
+
+![alt text](piano2.jpg)
